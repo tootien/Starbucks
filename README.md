@@ -4,12 +4,16 @@ A dataset containing answers to a Starbucks Costumer Survey are analysed, with t
 * Who are the recurrent costumers of Starbucks? And who are the non-recurrent costumers?
 * How these two classes of costumers are different from one another?
 * What are the strong points of Starbucks according to the recurrent costumers? And the weakests?
+
 ![dashboard_starbucks](https://github.com/tootien/Starbucks/assets/150121279/d090f4f0-1b0a-481f-b5cf-ce02db402aca)
 ## Dataset
 ### Dataset Description
 Starbucks Customer Survey: https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey
+
 Starbucks Locations Worldwide: https://www.kaggle.com/datasets/starbucks/store-locations
+
 This dataset is composed of a survey questions of over 100 respondents for their buying behavior at Starbucks.
+
 Income is show in Malaysian Ringgit (RM)
 ### Content
 * Demographic info about customers – gender, age range, employment status, income range
